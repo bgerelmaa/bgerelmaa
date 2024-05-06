@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### 🌱 I’m currently learning for a MSc of CS specialized by DS
+#### 🌱 I’m currently studying for a MSc of CS specialized by DS
 
 <!--
 **bgerelmaa/bgerelmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
